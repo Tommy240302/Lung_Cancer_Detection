@@ -13,10 +13,15 @@ A deep learning-based application for early pneumonia screening from X-rays and 
 - Scikit-learn
 - Matplotlib
 
-### 🧠 Features
-- Upload chest X-ray image to classify as NORMAL or PNEUMONIA
-- Enter symptoms to enhance diagnostic prediction
-- Tkinter-based GUI
+## 📌 Features
+
+- 🖼 Load and analyze chest X-ray images (grayscale)
+- 🧠 Deep learning prediction using a trained CNN model
+- 📝 Input form for symptoms (e.g., cough, chest pain, smoking, etc.)
+- 📊 Provides predictive result: low or high risk of lung cancer
+- 🔄 Clean, simple, and intuitive graphical interface
+
+---
 
 ### 📦 Installation
 ```bash
@@ -45,5 +50,34 @@ python app.py
 - Detect more lung diseases
 - Hospital software integration
 
+## 🚀 Usage
+
+```bash
+python app.py
+```
+
+Once the GUI launches, you can:
+
+- 📷 Load an X-ray image via **"Ảnh chụp X-Quang" (Load X-ray Image)**
+- 🔍 Analyze the image via **"Phân tích ảnh" (Analyze Image)**
+- 📝 Enter symptoms via **"Nhập triệu chứng" (Enter Symptoms)**
+- ✅ Get a prediction on potential lung cancer risk
+
+---
+
+## 🧪 Demo
+
+### 🖥 Main Interface:
+
+![detect_by_X-Quang](https://github.com/user-attachments/assets/84e7b3c6-894e-44cf-b41e-7098a0c206bb)
+
+### 📝 Symptom Input Form:
+
+![detect_by_symptom](https://github.com/user-attachments/assets/4d783caa-8f58-4aa6-a83f-ebe1e9336eba)
+
+
+---
+### 📄 License
+- This project is not licensed under the MIT License.
 
 

@@ -32,10 +32,12 @@ python app.py
 
 ### 🧪 Dataset
 - Kaggle Chest X-ray Pneumonia Dataset
+- https://www.kaggle.com/code/bonicajalakam/lung-cancer-detection-using-cnn/input
 - Symptoms: Custom structured medically
 
 ### 📊 Results
 - Accuracy: ~93%
+- Precision/Recall: 99%
 - Regularization: Dropout, Augmentation, Balanced Classes
 
 ### 📌 Future Work

@@ -38,7 +38,7 @@ python app.py
 ### 🧪 Dataset
 - Kaggle Chest X-ray Pneumonia Dataset
 - https://www.kaggle.com/code/bonicajalakam/lung-cancer-detection-using-cnn/input
-- Symptoms: Custom structured medically
+- Symptoms: [Custom structured medically](https://www.kaggle.com/datasets/humairmunir/lung-cancer-risk-dataset/data)
 
 ### 📊 Results
 - Accuracy: ~93%
@@ -59,7 +59,8 @@ python app.py
 Once the GUI launches, you can:
 
 - 📷 Load an X-ray image via **"Ảnh chụp X-Quang" (Load X-ray Image)**
-- 🔍 Analyze the image via **"Phân tích ảnh" (Analyze Image)**
+- 🔍 Analyze the image via **"Kiểm tra ảnh" (Analyze Image)**
+- 🔄 Clear image and result **"Làm mới" (Clear)**
 - 📝 Enter symptoms via **"Nhập triệu chứng" (Enter Symptoms)**
 - ✅ Get a prediction on potential lung cancer risk
 
@@ -71,10 +72,15 @@ Once the GUI launches, you can:
 
 ![detect_by_X-Quang](https://github.com/user-attachments/assets/84e7b3c6-894e-44cf-b41e-7098a0c206bb)
 
+### 📷 Detect By X-Quang Image:
+
+![image](https://github.com/user-attachments/assets/2131b2aa-45c5-4297-b176-05aa27e34772)
+
+![image](https://github.com/user-attachments/assets/c3996abd-ebc6-4d46-aba1-744616361724)
+
 ### 📝 Symptom Input Form:
 
 ![detect_by_symptom](https://github.com/user-attachments/assets/4d783caa-8f58-4aa6-a83f-ebe1e9336eba)
-
 
 ---
 ### 📄 License
